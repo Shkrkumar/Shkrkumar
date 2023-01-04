@@ -75,7 +75,7 @@ Hello stranger! my name is Shekhar Kumar and I am a Full Stack Developer, passio
 </div>
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Shkrkumar&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Shekhar Kumar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Shkrkumar&theme=react-dark&hide_border=true" /></a>
 
 
 <br> 
