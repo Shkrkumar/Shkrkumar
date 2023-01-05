@@ -16,19 +16,23 @@ Hello stranger! my name is Shekhar Kumar and I am a Full Stack Developer, passio
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-- 🔭 I’m currently working on **Frontend & Backend**
+🔭 Student at Masai School, Bengaluru
 
-- 🌱 I’m currently learning **MERN stack**
+🌱 Learning MERN
 
-- 👯 I’m looking to collaborate on **LinkedIn & GitHub**
+👯 Looking to collaborate on Interesting projects.
 
-- 📫 Reach me on **shekhar.rrj@gmail.com** 
+👨‍💻 Checkout my <a href="https://shekhar_kumar.github.io/" target="_blank">Portfolio</a>  
 
-- 💬 ask me about anything, i am happy to help 
+🖥  Checkout my <a href="#" target="_blank">Resume</a>
 
-- 😄 Pronouns: He/His
+💬 Ask me about coding because that's what fascinates me
 
-- ⚡ Fun Fact: Imagination is more important than knowledge 
+📫 How to reach me shekhar.rrj@gmail.com
+
+⚡ Fun fact "it's all 0's and 1's"
+
+👯 Love to connect with people and Know their stories
 
 - 💬 Have a look at my [Portfolio](https://#.netlify.app) 
 
