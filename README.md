@@ -22,7 +22,7 @@ Hello stranger! my name is Shekhar Kumar and I am a Full Stack Developer, passio
 
 👯 Looking to collaborate on Interesting projects.
 
-👨‍💻 Checkout my <a href="https://shekhar_kumar.github.io/" target="_blank">Portfolio</a>  
+👨‍💻 Checkout my <a href="https://shkrkumar.github.io/" target="_blank">Portfolio</a>  
 
 🖥  Checkout my <a href="#" target="_blank">Resume</a>
 
