@@ -34,7 +34,6 @@ Hello stranger! my name is Shekhar Kumar and I am a Full Stack Developer, passio
 
 👯 Love to connect with people and Know their stories
 
-- 💬 Have a look at my [Portfolio](https://Shkrkumar.github.io) 
 
 
 
